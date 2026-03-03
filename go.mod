@@ -1,4 +1,4 @@
-module gopkg.mingting.cn/filexch
+module github.com/mingting-tech/filexch-sdk-go
 
 go 1.25.6
 

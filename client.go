@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	servicepb "gopkg.mingting.cn/filexch/api/service"
-	"gopkg.mingting.cn/filexch/common/hmacauthz"
+	servicepb "github.com/mingting-tech/filexch-sdk-go/api/service"
+	"github.com/mingting-tech/filexch-sdk-go/common/hmacauthz"
 )
 
 // Client 文件交换查询服务客户端.

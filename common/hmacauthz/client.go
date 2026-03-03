@@ -12,7 +12,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"gopkg.mingting.cn/filexch/common/hmacauthz/signer"
+	"github.com/mingting-tech/filexch-sdk-go/common/hmacauthz/signer"
 )
 
 type (

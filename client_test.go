@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	servicepb "gopkg.mingting.cn/filexch/api/service"
+	servicepb "github.com/mingting-tech/filexch-sdk-go/api/service"
 )
 
 func TestNewClient(t *testing.T) {
